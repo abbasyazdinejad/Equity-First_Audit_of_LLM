@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data files (raw CSV if too big)
+*.csv
+*.xlsx
+*.sav
+
+# Outputs
+outputs/
+plots/
+
+# Mac system files
+.DS_Store
