@@ -6,7 +6,7 @@ This repository contains the full reproducibility bundle (Audit-Bundle v1.0) for
 
 ## 📊 Equity-First LLM Audit Pipeline
 
-![Equity-First LLM Audit Pipeline](docs/figures/L2.png)
+![Equity-First LLM Audit Pipeline](L2.png)
 
 *Figure: Overview of the Equity-First LLM Audit Pipeline showing how data collection, model evaluation, scoring rubrics, analysis, and reproducibility items connect in a structured framework.*
 
