@@ -1,0 +1,2 @@
+model,accuracy,cultural_relevance,language_accessibility,bias_avoidance,total_score
+deepseek-r1:8b,2.4,1.7,1.1,1.2,6.4

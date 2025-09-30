@@ -1,0 +1,4 @@
+model,fnmwcf_hits
+deepseek-r1:8b,5.344
+llama3.2:latest,7.156
+mistral:7b,8.927

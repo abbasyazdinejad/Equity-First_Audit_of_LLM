@@ -1,0 +1,4 @@
+model,mean,median,min,max,std
+deepseek-r1:8b,177.6,180.0,110,180,7.2
+llama3.2:latest,175.8,180.0,127,180,7.3
+mistral:7b,177.6,180.0,142,180,6.0

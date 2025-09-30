@@ -1,0 +1,4 @@
+model,avg_sentence_len_words,avg_chars_per_word
+deepseek-r1:8b,16.281,5.428
+llama3.2:latest,14.046,5.287
+mistral:7b,11.777,5.671

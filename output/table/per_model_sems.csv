@@ -1,0 +1,4 @@
+model,accuracy,cultural_relevance,language_accessibility,bias_avoidance,total_score
+deepseek-r1:8b,0.175,0.303,0.369,0.29,0.543
+llama3.2:latest,0.0,0.0,0.0,0.0,0.0
+mistral:7b,0.0,0.0,0.0,0.0,0.0

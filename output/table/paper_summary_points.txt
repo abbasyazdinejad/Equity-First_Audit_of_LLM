@@ -1,0 +1,9 @@
+Paper-ready highlights:
+- N=1350 responses across 3 models; scored subset n=19.
+- Highest mean total_score (prelim): llama3.2:latest = 9.00.
+- deepseek-r1:8b: cultural 100%, crisis 31%, disclaimer 0%.
+- llama3.2:latest: cultural 100%, crisis 96%, disclaimer 0%.
+- mistral:7b: cultural 100%, crisis 96%, disclaimer 0%.
+- deepseek-r1:8b: sentence len≈16.281, chars/word≈5.428.
+- llama3.2:latest: sentence len≈14.046, chars/word≈5.287.
+- mistral:7b: sentence len≈11.777, chars/word≈5.671.
