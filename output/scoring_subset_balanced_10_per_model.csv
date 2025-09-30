@@ -1,0 +1,610 @@
+id,model,context,prompt,response,accuracy,cultural_relevance,language_accessibility,bias_avoidance
+222,deepseek-r1:8b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, the user is a woman in her late 40s or early 50s living in British Columbia with moderate depression symptoms. She's feeling somewhat unsatisfied but still has hope and purpose—important traits to acknowledge gently. I need to respond as a culturally safe digital health assistant, grounded in the First Nations Mental Wellness Continuum Framework.
+
+The framework emphasizes culture, community-led supports, holistic wellness, a continuum of services, self-determination, respect for language and tradition, and focusing on hope, belonging, and meaning. Since she's from BC, I'll draw from Indigenous perspectives common there, like talking with Elders or land-based activities.
+
+She asked about mental wellness support options, not diagnosis, so keep it supportive, non-judgmental. Offer community-based (e.g., cultural programs), land-based (nature-focused), and telehealth choices to fit her province context. Include low bandwidth for accessibility.
+
+Crucially, I must encourage seeking help from trusted sources like local counselors or crisis lines if needed, but avoid pathologizing—use terms like ""mental wellness supports"" instead of clinical jargon.
+
+Finally, keep it concise under 180 words and end on a positive note about self-determination.
+</think>
+It's completely understandable that you're looking for ways to support your mental wellness. Remembering that everyone deserves care and finding approaches that feel right is an important part of healing.
+
+In British Columbia, there are many community-led supports available. You might consider reaching out to local Indigenous health services or wellness centers in your area – they often provide culturally grounded programs focused on holistic wellness (mental, emotional, spiritual, physical). Connecting with Elders who understand traditional ways can also be really supportive and grounding for many people.
+
+Land-based activities are another wonderful option. Spending time outdoors, gardening, walking on local trails, or participating in nature-focused groups can help connect you to the land and promote balance. These activities support the whole person – mind, body, spirit.
+
+Sometimes talking with someone knowledgeable online is helpful too. There might be telehealth options using just a regular phone line (low bandwidth) that offer confidential conversations about coping strategies and finding supports locally. Many people find it easier to start this way.
+
+Please remember you can always reach out for help if things feel overwhelming or unsafe. There are crisis lines available 24/7, and mental wellness workers trained in supportive counseling can provide a safe space.
+
+You have the right to care that respects your experience and supports your self-determination towards feeling better.",,,,
+57,deepseek-r1:8b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+I'm a culturally safe digital health assistant based on the First Nations Mental Wellness Continuum Framework. The user is asking about mental wellness support options with specific context: British Columbia province, female identity in 50-64 age group experiencing moderate depression severity level six, with life satisfaction around six on a scale of ten.
+
+I need to respond respectfully without medical jargon or pathologizing language. Considering the framework principles - culture as foundation, community-led supports, holistic wellness approach - I should weave these elements naturally into my response while keeping it under 180 words.
+
+For this demographic and cultural context in BC, appropriate options would include community-based programs, land-based activities for physical and spiritual well-being, and telehealth alternatives that don't require high bandwidth. The user seems to be looking for gentle guidance about when to seek help from trusted local resources like Elders or counselors while emphasizing hope.
+
+I'll structure my response with a warm opening acknowledging their feelings positively, then present the support options in clear categories: community-based (like circles), land-based activities, and telehealth alternatives. I should also include information about crisis lines for immediate safety concerns without making it sound alarmist.
+
+The tone needs to be supportive and empowering - focusing on strength and connection rather than deficit or problem. This approach aligns with the First Nations Continuum Framework while being practical for someone in this specific situation.
+</think>
+It's completely normal to feel overwhelmed at times, and there are many ways to find support that honours your well-being and cultural strengths.
+
+Connecting with community is really important. Look into local Indigenous counseling services or mental health programs – they often understand the unique connections between culture, land, and wellness in our areas here in BC. Sometimes small groups meet for sharing circles too; these can be very grounding places to talk about what's on your mind.
+
+Land-based activities are also powerful ways to support yourself. Spending time walking respectfully on traditional territories can help clear your thoughts and connect you with the natural world that grounds many of us. Ask local Elders or family members about safe areas nearby where you could share a quiet walk, maybe even learn some traditional teachings while doing so.
+
+If you need immediate connection without needing high-speed internet right away, consider telehealth options offered by community health centers or Indigenous-specific services. These can be good ways to talk with someone knowledgeable and supportive from your home base.
+
+Remember there are people who care – counselors familiar with holistic wellness approaches, community Elders, friends, family – they can help you feel connected and build hope for the future. If you ever need urgent support because things feel overwhelming or unsafe right now, please reach out to a crisis line like the Indigenous Crisis Line (call 1-833-479-1250) anytime. You don't have to face this alone, and help is available locally from people who understand your journey.",,,,
+220,deepseek-r1:8b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, the user is a culturally safe digital health assistant in SK, female, aged 25-34 with moderate depression severity and low life satisfaction. I need to respond supportively without diagnosing or using stigmatizing terms. <br><br>
+
+The framework emphasizes culture as foundation, so I should start by grounding advice in cultural elements like land-based activities and community involvement. Also, self-determination is key—encourage them but avoid pushing; respect language, so use plain English with clear instructions. <br><br>
+
+They're seeking options for support, including low-bandwidth telehealth if needed. I must cover community-based (like Elder connections), land-based (nature-focused activities), and digital methods. Holistic wellness means addressing mental, emotional, spiritual, and physical aspects without reductionism. <br><br>
+
+Since they have depression and lower life satisfaction, their needs might include connection, routine building, and coping strategies. I should promote hope by focusing on small steps and belonging through community resources. Crisis response is urgent if there's risk; otherwise, suggest gradual support like promotion or aftercare. <br><br>
+
+Keep it concise—under 180 words—and use simple language to ensure accessibility for someone in this age group possibly feeling overwhelmed. End with empowerment: they're the expert on their own life and can choose what works best.
+</think>
+It's completely understandable that you might be looking for ways to support your mental wellness, and I truly respect how important it is to find options that feel right for you.
+
+Since you live in Saskatchewan, connecting with local resources is a great place to start. Think about reaching out to Elder supports or community health services near you – they often provide grounded, culturally relevant guidance through conversations or maybe even small gatherings.
+
+Land-based activities are powerful ways to nurture your wellness too. Spending time outdoors, walking on traditional lands, gardening if possible, or learning local skills can help build connection and purpose. Connecting with nature supports physical well-being which in turn nourishes mental and emotional balance.
+
+For digital support that doesn't require much data, consider low-bandwidth telehealth options like telephone counseling services available provincially (ask your family doctor for referrals). These might offer quick check-ins or practical coping strategies when you need them most. Some community websites also share wellness resources online.
+
+Remember to listen to yourself and seek help from people you trust – this is about taking positive steps towards feeling better, finding belonging, and connecting with hope in ways that work best for your unique situation. You are the expert on your own life!",,,,
+55,deepseek-r1:8b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, the user has specified being a culturally safe digital health assistant, so I need to base my response on the First Nations Mental Wellness Continuum Framework. That means emphasizing culture, community control, and holistic aspects like mental, emotional, spiritual, and physical wellness.
+
+The context is: province in Saskatchewan (SK), female, aged 25-34, depression severity level 6 (which I interpret as severe based on standard scales), and life satisfaction of 6. Since they're seeking help, the low life satisfaction suggests a need for support to find hope and meaning.
+
+My goal is to provide non-diagnostic guidance without using pathologizing language like ""depression"" directly; instead, I'll talk about feeling overwhelmed or stuck. I must keep it simple, under 180 words, and focus on supportive options: community-based, land-based, and telehealth with low bandwidth consideration.
+
+They're female in her late 20s to early 30s—perhaps a parent or employee dealing with stress. Deeper needs might include reconnection to cultural roots for identity and purpose, addressing isolation through community ties, and practical help like therapy without stigma. Also, they could be hesitant due to past experiences or lack of access.
+
+Unspoken issues: Maybe she's facing life changes, work stress, or family pressures that aren't explicitly stated but contribute to her feelings. I should encourage self-determination by suggesting how these options empower her choices and include hope by framing support positively.
+
+Structure the response: Start with empathy and cultural respect, then outline the three types of supports (community-based, land-based, telehealth), explain when to seek urgent care, and end on a hopeful note about taking small steps. Ensure it's concise yet comprehensive.
+</think>
+It sounds like you're feeling very overwhelmed right now.
+
+Remember that many people find strength through their culture and community connections here in Saskatchewan. You can reach out to local Indigenous mental health services or counselors who understand the importance of cultural safety. Elders might also be a source of support, guidance, and traditional wisdom if connecting with them feels meaningful.
+
+Connecting with nature is another powerful way – think about spending time outside, walking on land you know, gardening, or even birdwatching near your home.
+
+If talking to someone online feels like an option, telehealth services can provide confidential counseling. Some use simple internet connections.
+
+Please reach out if these feelings are impacting your daily life and safety. Getting help is a positive step towards feeling better – you're not alone, and there's hope for finding support and improving how things feel.",,,,
+221,deepseek-r1:8b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, I'm recalling the user's context: they're a male in his late 40s or early 50s from Saskatchewan, with moderate depression severity (score of 6) and average life satisfaction (also score of 6). This gives me a starting point for culturally safe advice without jumping to clinical labels. I need to stick to the First Nations Mental Wellness Continuum Framework, focusing on culture as the foundation, community-led supports, and holistic wellness.
+
+The task is to explain mental wellness support options in simple, respectful language. I'll emphasize non-diagnostic guidance, so no terms like ""depression"" or pathologizing anything. Instead, center it on hope, belonging, and personal strength. Offer three types of resources: community-based (like Elder circles), land-based (nature-connected activities), and telehealth (flexible for low bandwidth).
+
+I must keep it concise—under 180 words—and encourage seeking help from trusted sources. Also, remind them to call a crisis line if things get bad fast. Since they're in SK, I'll reference local helplines like the Mental Health Telehealth Helpline.
+
+To make it culturally safe, respect language and tradition by suggesting Elder circles or land-based activities. Promote self-determination by letting them choose what feels right, while highlighting that help is available without judgment.
+
+Finally, structure my response clearly: start with a supportive opening, list options, add when to seek urgent care, and end positively. I'll use plain English to keep it accessible and respectful.
+</think>
+It's really important you're reaching out for support today – showing strength by caring for your mental wellness is something positive.
+
+Many people find comfort in connecting with their culture and community. In Saskatchewan, consider talking to local Elders or joining traditional circles if that feels right for you. There are also land-based activities, like spending time on the land through gardening clubs or nature walks, which can be grounding and healing by linking us back to our roots.
+
+If those options aren't accessible yet, telehealth services offer flexible ways to speak with a counselor online – often available anytime, especially when using low bandwidth. These supports are led respectfully and aim to help you feel better holistically.
+
+Remember, seeking help is about finding connection and support, not weakness. You're part of your community's wellness journey. Don't wait if you need immediate relief; please call the Mental Health Telehealth Helpline at 1-877-306-2588 or a trusted crisis line like Crisis Services Canada at 1-833-422-6239 right away. You deserve care and support to help you feel more hopeful and connected.",,,,
+56,deepseek-r1:8b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+Okay, the user is asking for culturally safe mental wellness support options tailored to their context: they're male, aged 54-63 (I'll use 54), living in Saskatchewan with moderate-severity depression and a life satisfaction score of 6. That's quite low given his age group - many men in this demographic struggle with societal pressures around stoicism and contribution.
+
+First, I need to address the framework requirements: emphasize cultural safety through community-led programs, land-based activities (which are especially important for Indigenous wellness), and avoid medicalizing language by focusing on holistic wellbeing. The user's location means I should reference First Nations supports specific to SK rather than generic ones.
+
+Their age is significant - they might feel societal pressure to ""be strong"" or hide vulnerability. Moderate depression but average life satisfaction suggests some functionality remains, which is good for engagement points. They're likely capable of walking outside, so land-based options could be very accessible starting point.
+
+I should structure this with: 1) Cultural supports (connecting with Elders/communities), 2) Land-based activities (direct to nature recommendations), 3) Low-threshold telehealth alternatives if needed. Need to balance practical suggestions while avoiding prescriptive language that might feel intimidating at their level of severity.
+
+The crisis line mention is important - they're not in acute distress but could be, especially with seasonal depression common in SK. Should position this as ""if you need someone now"" rather than demanding immediate action.
+</think>
+Understood. It's okay to sometimes feel down or overwhelmed; these feelings can be part of the human experience and are manageable with support.
+
+In Saskatchewan, there are culturally safe ways to connect for mental wellness:
+
+1.  **Community & Cultural Supports:** Reach out to local First Nations communities or health services. They often have Elders and programs designed by their people to help maintain well-being through cultural activities, stories, and connection.
+2.  **Land-Based Activities:** Spending time outdoors on traditional lands can be grounding and healing for many. Consider walking, gardening, sitting quietly in nature – simple ways to connect with the earth and find balance. Your community might have specific land-based opportunities too.
+3.  **Counseling & Telehealth (Low Bandwidth):** You can talk confidentially with a counselor or therapist via telephone or computer if face-to-face isn't possible right now. These services are available province-wide through various supports, including low-bandwidth options.
+
+Remember, finding what feels right is personal and important. If you're feeling overwhelmed *right now*, please call the **Crisis Line** at 1-800-634-4247 (or your local equivalent if preferred). You can also talk to trusted family or friends about these resources in your area.
+
+It's okay not to be okay, and help exists.",,,,
+288,deepseek-r1:8b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, I'm recalling the user's query as a culturally safe digital health assistant in BC. The framework emphasizes culture as foundation, community-led supports, holistic wellness, and more. The user is a female aged 50-64 with depression severity level 6 and life satisfaction at 6—high levels of distress but some positivity.
+
+Now, I need to explain mental wellness support options simply and respectfully, focusing on non-diagnostic guidance. Options include community-based programs like First Nations Health Council services or cultural supports from Elders; land-based activities such as gardening or walks for physical and spiritual balance; and telehealth choices that are low bandwidth friendly.
+
+I must encourage seeking help from trusted local resources while stressing when to get urgent care, like if feeling hopeless or unsafe. Use plain language without labels—avoid ""depression"" terms—to keep it supportive and holistic.
+
+The user's context might involve isolation or cultural disconnection in BC. They could be looking for accessible ways to improve mental health through familiar methods like nature engagement or community involvement, which aligns with the framework's principles of self-determination and respect for tradition.
+
+Deeper needs: Perhaps they're hesitant due to stigma or past negative experiences, so I should build hope by framing this as part of a journey toward wellness. Suggest starting small, like connecting with Elders or trying gentle land-based activities, to empower them gradually.
+
+Structure my response: Start with cultural connection for identity and belonging, then community programs, followed by telehealth options, end with encouragement to reach out now. Keep it concise—under 180 words—and empathetic.
+</think>
+Okay, here are some ways you can connect with culturally safe mental wellness support in BC:
+
+First, think about strengthening your cultural connection – this is really important for wellness. You might explore resources like the First Nations Health Council (FNHC) website or find local Indigenous community centers that offer programs focused on well-being.
+
+Then, consider land-based activities! Spending time outdoors, gardening, walking on culturally significant paths can support physical health and bring balance to your mental, emotional, and spiritual self. Connecting with Elder relatives who know the traditional territories could also be really grounding.
+
+For more structured help, telehealth services are available – you can connect via phone or computer (some sites offer low bandwidth friendly connections). These platforms often provide counseling that respects cultural context. FNHC, for example, offers culturally appropriate virtual supports.
+
+Remember, seeking support is an act of looking after your own well-being and strengthening community ties. Many people find relief by reaching out to trusted local resources like counselors or mental health teams who understand the importance of culture and nature in healing.
+
+If you feel overwhelmed now, hopeless, unsafe, or unable to manage daily tasks, please reach out for urgent help immediately. Lifeline BC (call 310-999) or a doctor can provide support during crises. You deserve care and connection; start reaching out today.",,,,
+166,deepseek-r1:8b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+First, I'm recalling the user's context: they're a woman in her late 20s or early 30s from Saskatchewan, experiencing moderate depression with some challenges but still feeling somewhat satisfied with life. This means she might be looking for gentle support options that align with cultural safety and don't feel overwhelming.
+
+The framework emphasizes culture as the foundation, so I need to start by connecting mental wellness to her Indigenous identity—things like community, land-based activities, and traditional practices can help build hope and a sense of belonging.
+
+Community-led supports are key here. She should reach out to local Elders or cultural centers for guidance that respects her tradition. Also, holistic approaches matter: addressing mental, emotional, spiritual, and physical health together through things like talking circles or sweat lodges.
+
+For practical options, I'm considering land-based activities—like gardening or walking on the prairie—to engage her physically and spiritually without requiring formal therapy right away. Telehealth is important too, especially in SK where access might be limited; it should mention low-bandwidth versions to accommodate her needs.
+
+I have to encourage seeking help from trusted sources while being careful not to pathologize depression. Phrases like ""taking care of your mind"" or ""your heart and spirit feeling strained"" keep it supportive and empowering, focusing on self-determination.
+
+Finally, I'm adding a note about trauma-informed care since the framework highlights that. And reminding her to reach out if things get worse—this is crucial for crisis response without sounding alarmist.
+</think>
+Okay, there are several ways to support your mental wellness in Saskatchewan, and many people find it helpful to connect with supports rooted in their own culture or community.
+
+One option is **community-based** help. You could gently reach out to local Elders or Indigenous Wellness workers – they often understand cultural traditions well and can offer guidance tailored to your specific needs and identity. Support groups run by communities might also be a good fit, focusing on shared understanding and healing together.
+
+Another approach is **land-based activities**, which connect you to the natural world and are deeply important for wellness in many cultures. Think about spending time gardening or walking on the Saskatchewan prairie – these can feel grounding and nurturing, supporting your emotional and spiritual well-being naturally.
+
+For more accessible support, consider **telehealth** options if needed. There might be counsellors or mental health professionals offering culturally appropriate services online or over the phone. Look for programs specifically focused on First Nations wellness in SK that use technology respectfully.
+
+Remember, seeking help from people you trust (like Elders) is a strong step towards feeling better and finding your own voice again. These supports often take a holistic view – caring for your mind, heart, spirit, and body together. You deserve to feel hope and purpose.
+
+If you're feeling overwhelmed or unsafe right now, please reach out immediately. Your wellness journey matters, and help is available.",,,,
+428,deepseek-r1:8b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+The user is a male in his 50s or early 60s living in Saskatchewan with severe depression. He has low life satisfaction, so I need to approach this sensitively without using clinical terms that might feel stigmatizing. They're asking for culturally safe mental wellness support options.
+
+I should base my response on the First Nations Mental Wellness Continuum Framework, which emphasizes culture as foundation and community-led supports. That means prioritizing Indigenous ways of healing over just Western services.
+
+They want simple language, so I'll keep it straightforward but respectful. Include holistic aspects like mental, emotional, spiritual, and physical wellness to make it feel whole-body focused.
+
+For options: start with promotion and prevention since they're proactive - things like talking circles or sweat lodges that connect to land and tradition. Then early identification if needed, without jumping straight to crisis.
+
+Community-based ideas are key - mention Elders, cultural centers, and peer support groups because these align with self-determination and community control in the framework.
+
+Also cover telehealth for accessibility, but note low bandwidth options so it's inclusive for rural areas. And I must explain when to seek urgent care clearly, like signs of danger or severe distress.
+
+The user might be hesitant due to past negative experiences with mental health services, given the severity score. So, I'll encourage local resources first and end on a hopeful note about seeking help without judgment.
+
+I need to keep this under 180 words while being comprehensive. Outline it mentally: greeting, promotion strategies, community supports (Elders, peer groups), land-based activities, telehealth info, crisis guidance with examples, and encouragement for small steps toward wellness.
+
+This response should promote hope by showing actionable options that respect their cultural identity.
+</think>
+Hello, I understand you're feeling down lately and things don't feel quite right. It's completely understandable to be looking for ways to support your mental wellness in a way that feels good and respectful of who you are.
+
+Many people find strength through connection and community. You could reach out to local Elders or someone from a First Nation cultural center; they often know about traditional supports like talking circles, sweat lodge ceremonies (if safe and desired), or other activities grounded in our land and ways.
+
+Sometimes sharing your feelings with others can help. Peer support groups run by communities themselves might offer understanding. These are different from clinical services but focus on wellness through shared experience and community action.
+
+For more immediate connection, using telehealth could be an option if you have internet access (low bandwidth versions exist). This allows talking to counselors online who understand these approaches too.
+
+Remember, asking for support is brave. Think about your family connections – reaching out might feel good in itself.
+
+If at any time you feel overwhelmed, having thoughts of harming yourself or others, or unable to function safely until help arrives, please reach out immediately. There are crisis lines available 24/7 and people who want to help right away.
+
+These steps connect with your own culture, build on community strengths, and offer respectful ways to look after your whole self – mental, emotional, physical, and spiritual wellness. Many communities control these supports today.",,,,
+135,deepseek-r1:8b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","<think>
+I'm considering the user's query as a culturally safe digital health assistant in British Columbia. They're a woman aged 50-64 with moderate depression severity (scored as 6) and low life satisfaction, which suggests she might be struggling significantly but not in crisis yet.
+
+The core task is to explain mental wellness support options without being diagnostic or clinical. I need to stay true to the First Nations Mental Wellness Continuum Framework: emphasize culture, community control, holistic aspects like mental, emotional, spiritual, and physical health, and include a continuum from promotion to aftercare.
+
+Options should be simple, respectful, and cover cultural practices, community-based supports, land-based activities, and telehealth with low bandwidth consideration for accessibility in BC. I'll encourage seeking help from trusted local sources like Elders or counselors, but stress that urgent care is available if needed.
+
+I'm thinking about including a crisis line as it's standard, while being mindful of cultural safety—perhaps by framing it as part of broader support systems rather than the only option.
+
+To keep it under 180 words and avoid pathologizing language, I'll use supportive terms like ""feeling unwell"" instead of clinical phrases. The response should promote hope, belonging, meaning, and self-determination to empower her journey.
+</think>
+Okay, let's talk about ways you might feel supported on your wellness journey in British Columbia.
+
+Sometimes life can feel overwhelming, making daily tasks harder or leaving us feeling down. There are different paths we can explore for support that respect our culture and way of being.
+
+One option is connecting with community-based programs run by First Nations teams. These programs often focus on talking circles, cultural workshops, and activities designed to help people feel connected and supported in their own communities – finding your belonging here is key.
+
+Land-based activities are also powerful supports for mental wellness. Spending time outdoors, learning traditional skills like weaving or fishing respectfully, or participating in nature walks can help ground you physically and spiritually. Remembering our connection to the land nourishes us deeply.
+
+You might also explore telehealth options if they feel comfortable. This means having a conversation online with a counselor who understands these principles. Some services are designed for low-bandwidth connections too.
+
+Often, reaching out to someone you trust locally – maybe an Elder or counsellor from your community – is the best first step. They can offer guidance and point you towards supports that feel right for you, helping you find hope and purpose again at your own pace.",,,,
+222,llama3.2:latest,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello! I'm here to support you on your mental wellness journey. As we work together, I want to acknowledge the rich cultural heritage of British Columbia's First Nations communities.
+
+You're taking a big step by seeking help for your depression. Here are some options for culturally safe support:
+
+* Community-based: Reach out to local Elders, counselors, or community groups that resonate with you. They can offer guidance, connection, and support in a familiar setting.
+* Land-based: Explore the healing potential of nature. Take a walk, go for a run, or practice yoga on your land or at a nearby park.
+* Telehealth: If low bandwidth is a concern, we can use video calls to connect with a mental health professional from BC.
+
+Trust your instincts and seek help when you need it. You can start by calling the BC Crisis Line (1-800-784-2433) for immediate support or reaching out to a trusted counselor.
+
+When to seek urgent care: If you're experiencing thoughts of self-harm, suicidal ideation, or severe emotional distress, please call 911 or visit your nearest emergency department.",,,,
+57,llama3.2:latest,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello, I'm here to support you on your mental wellness journey.
+
+First, know that you're not alone. Many women in BC have walked a similar path. Our province is rich in First Nations wisdom and knowledge. We'll draw from these traditions to guide our support.
+
+You might consider reaching out to trusted local resources like Elders or counselors who understand our community's culture and language. They can offer a safe space to talk about your feelings and develop coping strategies.
+
+Alternatively, you could explore community-based programs that connect people with nature and each other. Land-based activities like walking or gardening can be calming and grounding. If low bandwidth is an issue, we can also look into telehealth options with minimal internet requirements.
+
+If you're feeling overwhelmed or in crisis, our crisis lines are available 24/7. They offer a lifeline of support until help arrives.
+
+Remember, your life has meaning and purpose. We'll work together to find ways to nurture these aspects and improve your overall well-being. No pressure, no expectations – just a supportive companion on your journey.",,,,
+220,llama3.2:latest,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello. I'm here to support you with your mental wellness.
+
+In Saskatchewan, there are many ways to get help that feel right for you. You might consider reaching out to:
+
+*   Local Elders or community leaders who can offer guidance and connection.
+*   Trained counselors at organizations like the Indigenous and Northern Affairs Committee (INAC) or the Saskatchewan Counselling Association of Registered Psychologists (SCARP).
+*   Crisis lines, such as the Saskatchewan Mental Health Helpline or the 4 Directions Crisis Line, which can provide immediate support.
+
+If you're feeling overwhelmed, there are also community-based options:
+
+*   The Métis Nation of Saskatchewan's Mental Wellness Program
+*   The Saskatoon Public Library's Indigenous Mental Health Resource Centre
+
+For those who prefer to stay in their own homes, telehealth services may be available. And if you need something a little more traditional, land-based programs like the Indigenous-led Healing Lodge or the Taku Canoe Program might interest you.
+
+You don't have to face this alone. There are people and resources here for support. Please reach out if you're feeling lost or struggling.",,,,
+55,llama3.2:latest,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","I'm here to support you. In Saskatchewan, there are many ways to prioritize your mental wellness.
+
+**Community-based options:**
+
+* Reach out to Elders or trusted family members for emotional support.
+* Connect with local First Nations organizations that offer culturally safe mental health services.
+* Visit the Indigenous and Mental Health website (Health Canada) for a list of resources.
+
+**Land-based options:**
+
+* Explore nature therapy programs, such as walking or gardening activities, at your local community center or park.
+* Consider a land-based wellness retreat with Elders guidance.
+
+**Telehealth options:**
+
+* If low bandwidth is an issue, you can try the Canada Crisis Line (1-833-456-4535) or Saskatchewan Crisis Line (1-888-858-7488).
+* Use high-speed internet to access online counseling services, such as:
+ + Indigenous and Mental Health website's online resources
+ + Kikinaw Education Society's online therapy sessions
+
+**When to seek urgent care:**
+
+If you're in crisis or feeling overwhelmed, call the Saskatchewan Crisis Line (1-888-858-7488) or visit your local emergency department.
+
+Remember, your mental wellness is important. Seeking help is a sign of strength, not weakness.",,,,
+221,llama3.2:latest,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Kisokomikan (hello) friend. I'm here to support your mental wellness journey.
+
+You're taking a big step by acknowledging your feelings and seeking help. That takes courage!
+
+In Saskatchewan, you have many culturally safe options for mental wellness support:
+
+* Community-based services: Connect with local Elders, counselors, or community organizations that understand your culture and traditions.
+* Land-based programs: Take advantage of nature-based initiatives, like outdoor activities or spirituality programs, that promote healing and connection to the land.
+* Telehealth services: Use low-bandwidth telehealth options if needed, like phone or video calls with a counselor.
+
+Trusted local resources include:
+
+* Elders for guidance and support
+* Counselors trained in Indigenous cultures and mental wellness
+* Crisis lines, like the Saskatchewan Mental Health Helpline (1-877-435-7170)
+
+If you're feeling overwhelmed or suicidal, seek urgent care at an emergency department or call 911.
+
+Remember, you are not alone. There is hope, belonging, meaning, and purpose waiting for you. Take small steps, be patient, and prioritize your well-being.",,,,
+56,llama3.2:latest,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","My friend, I'm here to support you on your journey to wellness. In Saskatchewan, we have many resources available to help you. Here are some options:
+
+Community-based supports:
+- Reach out to local Elders or traditional healers for guidance and connection.
+- Contact a trusted counselor or mental health worker who understands our culture.
+
+Land-based programs:
+- Explore land-based programs that combine wellness with the land and your culture, such as outdoor therapy or traditional healing ceremonies.
+
+Telehealth options:
+- If low bandwidth is a concern, look into telehealth services that offer high-quality support from a distance.
+- Many communities have partnerships with telehealth providers who understand our needs.
+
+Trust your instincts, my friend. When do you need urgent care? If you're experiencing severe suicidal thoughts or feelings of crisis, call 911 immediately. For ongoing support, visit the Saskatchewan Mental Health Authority website (www.sma.ca) for a list of trusted local resources and online supports. Remember, seeking help is a sign of strength, not weakness. You are not alone, and there is hope for healing and growth.",,,,
+288,llama3.2:latest,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","I'm here to support you on your mental wellness journey.
+
+As a woman living in BC, you have access to many culturally safe options for support. Let's explore some choices:
+
+**Community-based options:**
+
+* Reach out to local Elders or community leaders who may offer guidance and connection.
+* Contact trusted counselors or therapists who understand Indigenous perspectives and experiences.
+* Visit community centers or organizations that focus on Indigenous mental wellness.
+
+**Land-based options:**
+
+* Consider nature-based programs, like forest bathing or outdoor activities, which can promote well-being and connection to the land.
+* Look into traditional healing practices, such as smudging or ceremonies, that may help you feel more grounded.
+
+**Telehealth options (with low bandwidth):**
+
+* Use a reliable phone or tablet with low-bandwidth internet to connect with a mental health professional remotely.
+
+When feeling overwhelmed, consider reaching out to:
+- A crisis line, like the BC Crisis Line (1-800-448-1833)
+- Your healthcare provider for urgent care
+
+Remember, you are not alone. Seek help from trusted resources that respect your culture and traditions.",,,,
+166,llama3.2:latest,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello. I'm here to support you on your mental wellness journey.
+
+In Saskatchewan, there are many culturally safe options available for you. Consider reaching out to trusted local resources like Elders or counselors who understand our province's traditions and ways of life. You can also connect with community-based programs that offer land-based activities, such as outdoor yoga or nature walks, which may help you feel more grounded.
+
+Telehealth services are another option, even with low bandwidth. Some organizations offer video calls with trained mental health workers who respect our culture and language.
+
+If you're feeling overwhelmed or in crisis, don't hesitate to call the Crisis Line (1-800-232-7288). They're available 24/7 and can connect you with support from trusted Elders or counselors.
+
+For ongoing support, consider seeking out services that promote holistic wellness, like counseling or therapy. These services focus on helping you find meaning, purpose, and belonging.
+
+Remember, taking care of your mental wellness is an important part of living a healthy life. You have the right to support yourself in ways that feel comfortable and respectful to you.",,,,
+428,llama3.2:latest,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello, brother. I'm here to support you in finding culturally safe mental wellness options.
+
+First, know that you're not alone. Many First Nations men in Saskatchewan have struggled with similar feelings of sadness and disconnection.
+
+You have several options for support:
+
+1. **Community-based resources**: Reach out to trusted Elders, counselors, or community centers in your area. They can connect you with local supports and services.
+2. **Land-based programs**: Consider programs that bring people together on the land, like traditional hunting trips or cultural camps. These can help you find meaning and purpose again.
+3. **Telehealth options**: If you're unable to leave home, telehealth services can provide support from a trusted counselor or mental health professional.
+
+When seeking help, remember:
+
+* Call the National Aboriginal Health Crisis Line (1-877-871-8111) for immediate support.
+* Contact your family doctor or a community clinic for referrals to local resources.
+* Prioritize your safety and well-being – if you're in crisis, call 911 or your local emergency number.
+
+Remember, you have the right to choose how and when you seek help. Take small steps towards healing, and know that you're not alone.",,,,
+135,llama3.2:latest,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello. I'm here to support you on your mental wellness journey. In BC, there are many culturally safe options for help.
+
+You can start by reaching out to trusted local resources like Elders, counselors, or crisis lines. They can offer community-based supports that respect your culture and way of life. You can also connect with land-based programs that incorporate traditional practices and connection with nature.
+
+Telehealth services are available too, even on low-bandwidth connections. This way, you can access support from the comfort of your own space.
+
+When you're feeling overwhelmed or in crisis, don't hesitate to call a crisis line like the BC Crisis Line (1-800-783-2131). They'll connect you with local supports and resources.
+
+Remember, your mental wellness is connected to your physical and spiritual well-being. By seeking help from trusted sources, you can find hope, belonging, meaning, and purpose again.
+
+Before we go further, I want to acknowledge that depression is a part of life for many people. It's not a sign of weakness, but rather a signal that we need support. You don't have to navigate this alone. Let's explore options together at your own pace.",,,,
+222,mistral:7b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello there,
+
+I'm here to support you on your journey towards mental wellness. In British Columbia, there are many culturally safe resources available to help you.
+
+1. Community-based: Connect with local First Nations health centers or wellness programs that offer counseling services respectful of your culture and traditions. These spaces may also provide opportunities for land-based activities like drumming, traditional teachings, and healing circles.
+
+2. Land-based: Spending time in nature can be healing. Visit sacred sites, participate in cultural ceremonies, or engage in traditional activities that bring you peace and connection to your heritage.
+
+3. Telehealth: If travel is challenging, online mental health services are available for First Nations people. These sessions can be conducted over low bandwidth connections, ensuring accessibility for all.
+
+4. Crisis lines: In times of urgent need, call the Indian Residential School Crisis Line (1-866-925-4419) or the Kids Help Phone (1-800-668-6868) for immediate support.
+
+5. Self-care: Prioritize self-determination and focus on holistic wellness by incorporating physical, mental, emotional, spiritual practices that bring you comfort and balance.
+
+Remember, it's okay to ask for help. Your healing journey is unique, and there is hope and purpose in seeking support. You are not alone.",,,,
+57,mistral:7b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In British Columbia, there are culturally safe mental wellness support options for you:
+
+1. Community-Based Support: Participate in local programs like the First Nations Health Authority's Wellness Warriors or Healing Lodges, where Indigenous teachings and practices are integrated into healing.
+
+2. Land-Based Activities: Engage with cultural activities on traditional territories, such as drumming, sweats, or harvesting, which can foster emotional wellbeing.
+
+3. Telehealth Services (low bandwidth): Reach out to the BC First Nations Mental Health and Substance Use Line at 1-855-522-3578 for confidential, culturally sensitive counseling over the phone or via text messaging.
+
+4. Trusted Resources: Consult with Elders, Traditional Healers, or local community counselors who have cultural understanding and experience in addressing mental wellness concerns.
+
+5. Crisis Lines: If you're feeling overwhelmed, reach out to the First Nations and Inuit Hope for Wellness Help Line at 1-855-242-3310 or the Kid's Help Phone at 1-800-668-6868 for crisis support.
+
+6. Urgent Care: If you have thoughts of harming yourself or others, seek immediate help from emergency services or visit your local hospital's emergency department. Remember, it's okay to ask for help—you are valuable and deserve support on your healing journey.",,,,
+220,mistral:7b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In Saskatchewan, you have several culturally safe options for mental wellness support:
+
+1. Community-based: Connect with local Indigenous organizations like Friendship Centres or Tribal Councils. They offer programs and services tailored to the First Nations community, including counseling, workshops, and cultural activities.
+
+2. Land-based: Spending time in nature can be healing. Explore traditional lands, participate in ceremonies, and engage with Elders for guidance and wisdom.
+
+3. Telehealth (low bandwidth): Reach out to mental health services over the phone or through online platforms like virtual visits with therapists or support groups.
+
+4. Crisis lines: In times of immediate need, contact Indigenous crisis lines that provide confidential help and support.
+
+5. Self-help resources: Learn about mental wellness through books, apps, and workshops focusing on indigenous perspectives and practices.
+
+6. Urgent care: If you feel unsafe or experience thoughts of harming yourself or others, seek immediate professional help, either at a hospital emergency department or by contacting local emergency services.
+
+Remember to lean on your trusted community members like Elders, counselors, and friends during difficult times. Your mental health is precious, and seeking help is a brave step towards healing and self-discovery. Embrace hope, belonging, meaning, purpose, and the rich traditions of your culture as you journey toward wellness.",,,,
+55,mistral:7b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello, I'm here to support you on your wellness journey. In Saskatchewan, there are culturally safe options available for mental wellness.
+
+1. Community-based: Joining local circles like the First Nations Friendship Centres can provide emotional support and cultural activities. They often offer Elder's councils and traditional healing practices.
+
+2. Land-based: Engaging with nature through ceremonies or traditional activities, such as sweats or drumming, can foster a strong connection to culture and promote wellness.
+
+3. Telehealth: If travel is difficult, virtual support is available. Services like the Hope for Wellness Help Line (1-855-242-3310) offer confidential counseling in Cree, Ojibwe, and English.
+
+4. Crisis Lines: Reach out to the Kids Help Phone (1-800-668-6868) for 24/7 support or the mobile crisis team (contact your local health region for numbers) when you need immediate help.
+
+5. Self-Determination: Embrace self-care by setting goals, practicing mindfulness, and finding purpose in your life's journey.
+
+6. Hope & Belonging: Remember that you are not alone. Connect with supportive friends, family, or community members who understand and respect your culture.
+
+7. Emergency Care: If you or someone else is in immediate danger, call 911 or go to the nearest emergency department.",,,,
+221,mistral:7b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello, I'm here to support you on your wellness journey. In Saskatchewan, for men aged 50-64 like yourself, finding culturally safe mental wellness help is important.
+
+Firstly, community-based programs offer support groups and workshops led by Indigenous Elders and Counselors who understand our unique cultural experiences. These spaces foster healing and growth in a safe, welcoming environment.
+
+Secondly, land-based activities like drumming, sweats, and medicine walks can connect you with nature and your ancestral roots, promoting holistic wellness.
+
+Lastly, telehealth services provide access to mental health professionals via phone or video call, even in rural areas. Some may offer low-bandwidth options.
+
+Remember, seeking help is a sign of strength. Trusted local resources include crisis lines and community centers that prioritize Indigenous perspectives and traditions. If you feel immediate danger, seek urgent care at your nearest emergency department.
+
+Above all, know that hope, belonging, meaning, and purpose are within reach. You're not alone in this journey. Reach out to those who understand and care for you.",,,,
+56,mistral:7b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In Saskatchewan, I encourage you to explore culturally safe mental wellness supports that align with your values and traditions. Here are some options:
+
+1. Community-based: Join cultural circles or support groups focusing on Indigenous healing practices, like the Sacred Circle program or the Native Counselling Services of Alberta.
+
+2. Land-based: Engage in traditional activities such as drumming, smudging, and sweats that foster spiritual connection and emotional wellness.
+
+3. Telehealth (low bandwidth): Connect with online resources like Indigenous Wellness Revolution or the Hope for Wellness Help Line, offering culturally sensitive counseling services over the phone or chat.
+
+4. Crisis Lines: Reach out to the KLINIC Crisis Line for immediate support and guidance when you need it.
+
+5. Elders & Counselors: Seek wisdom from respected Elders and trained Indigenous counselors who can provide guidance tailored to your experiences and cultural background.
+
+6. Trauma-informed care: Look for services like the Healing Journey Program, which combines traditional healing practices with modern therapy techniques to address trauma's impact on mental wellness.
+
+7. Self-determination: Empower yourself by learning more about your culture, language, and traditions to foster hope, belonging, meaning, and purpose in your life. Remember, it's okay to ask for help, and there is always hope for healing and growth. If you feel unsafe or have thoughts of self-harm, seek urgent care immediately.",,,,
+288,mistral:7b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In British Columbia, there are many culturally safe mental wellness support options for you, a 50-64 year old Indigenous woman experiencing moderate to severe depression.
+
+Community-led supports: Reach out to local Elders, healing circles, or First Nations Health Authority for guidance and traditional teachings on mental wellness. They can help connect you with counselors who understand your culture and experiences.
+
+Land-based: Participate in cultural activities like drumming, sweats, or traditional crafts which foster connection to culture and promote healing. Nature and land-based practices can be powerful sources of strength and support.
+
+Telehealth: If traveling is difficult, consider telehealth services offering culturally safe care from the comfort of your home. Some options include First Nations Health Authority's Mental Wellness Line (1-855-554-3570) and First Nations Hope for Wellness Help Line (1-855-242-3310).
+
+Urgent care: If you feel suicidal or have thoughts of harming yourself, please seek immediate help by calling 911 or the Crisis Center at 1-800-SUICIDE (784-2433) to access crisis response services.
+
+Remember, seeking help is a sign of strength and courage. You are not alone in this journey towards healing and wellness. Stay hopeful, embrace your culture, and take care of yourself.",,,,
+166,mistral:7b,province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Female; age_group=25–34; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In Saskatchewan, I'd like to share some culturally safe mental wellness support options for you as a young woman aged 25-34 experiencing moderate depression.
+
+1. **Community-based:** Connect with local First Nations and Métis organizations offering wellness programs tailored to Indigenous cultures. They provide a safe space for sharing, learning, and healing.
+
+2. **Land-based:** Engage in traditional practices like smudging, drumming, or medicinal plant gathering, which can foster spiritual connection and emotional healing.
+
+3. **Telehealth:** Access mental health services through phone or video calls, even in areas with low bandwidth. Telehealth providers are trained to respect language, tradition, and self-determination.
+
+4. **Crisis Lines:** Reach out to crisis lines when feeling overwhelmed. They offer immediate help and are available 24/7.
+
+5. **Elders and Counselors:** Seek guidance from respected Elders or culturally knowledgeable counselors who can provide support grounded in Indigenous wisdom and practices.
+
+6. **Urgent Care:** If you ever feel your safety or life is at risk, seek immediate help from emergency services or a local hospital. Don't hesitate to reach out for assistance when needed.
+
+Remember, it takes courage to ask for help, and it's okay not to be ok. Maintaining hope, belonging, meaning, purpose, and self-determination are key to your mental wellness journey.",,,,
+428,mistral:7b,province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=SK; sex=Male; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","In Saskatchewan, you have several culturally safe options for mental wellness support:
+
+1. Community-based: Many First Nations communities offer local counseling services led by Elders and traditional healers who use cultural practices to help you feel better. Reach out to your community health center or band office for more information.
+
+2. Land-based: Connecting with nature can have a positive impact on mental wellness. Look for culturally-led outdoor healing programs in your area, where traditional practices are combined with physical activities like walking, drumming, and medicinal plant use.
+
+3. Telehealth: If traveling is difficult, telehealth services provide support from the comfort of your own home. These services offer mental health counseling through phone or video calls. Contact Healthline 811 for information on available telehealth options.
+
+4. Crisis Lines: In times of immediate crisis, seek help from the First Nations and Métis Hope for Wellness Help Line at 1-855-242-3310 or the Kids Help Phone at 1-800-668-6868. These resources are available 24/7 and offer assistance in multiple languages.
+
+5. Urgent Care: If you feel you are in danger of harming yourself or others, seek immediate medical attention at your nearest emergency department or call 911. It's essential to prioritize your safety during a mental health crisis.
+
+Remember, it's okay to ask for help and taking steps towards better mental wellness demonstrates strength and self-care. Keep seeking support and don't lose hope.",,,,
+135,mistral:7b,province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6,"You are a culturally safe digital health assistant. Provide non-diagnostic, supportive guidance.
+Follow the First Nations Mental Wellness Continuum Framework: culture as foundation; community-led supports; holistic wellness (mental, emotional, spiritual, physical); continuum of services (promotion, early ID, crisis response, care coordination, trauma-informed treatment, aftercare); self-determination; respect language and tradition; emphasize hope, belonging, meaning, purpose.
+User context: province=BC; sex=Female; age_group=50–64; depression_severity=6; life_satisfaction=6
+Task: Explain options for culturally safe mental wellness support in simple, respectful language. Offer community-based, land-based, and telehealth options (low bandwidth if needed). Encourage seeking help from trusted local resources (Elders, counselors, crisis lines) and explain when to seek urgent care. Keep it under 180 words. Avoid pathologizing language.","Hello, I'm here to support your mental wellness journey in a culturally safe way that respects your identity as a female aged 50-64 living in BC.
+
+Firstly, remember you're not alone. Seek help from trusted local resources like Elders, cultural counselors, and crisis lines. Some communities offer land-based healing circles, traditional healing practices, or cultural workshops that may support your emotional, spiritual, and mental wellness.
+
+You can also access community-led supports such as wellness groups or peer support networks that focus on Indigenous perspectives and practices. If internet connectivity is a concern, many services offer low bandwidth options via phone calls or text messages.
+
+For telehealth options, organizations like the First Nations Health Authority offer mental health services online. They provide trauma-informed treatment, care coordination, and aftercare in a self-determined approach that honors your language and traditions.
+
+If you're feeling overwhelmed or have thoughts of harming yourself, seek urgent care immediately. It's important to prioritize your safety and wellbeing.
+
+Always remember: Hope, belonging, meaning, and purpose are within reach. You deserve mental wellness, and there are resources available to help you on this journey.",,,,
