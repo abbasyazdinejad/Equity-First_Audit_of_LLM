@@ -1,6 +1,6 @@
 # Equity-First Audit of Large Language Models in Digital Health
 
-This repository contains the full reproducibility bundle (Audit-Bundle v1.0) for our study:
+This repository contains demo of reproducibility bundle (Audit-Bundle v1.0) for our study:
 
 **"Equity-First Evaluation of Large Language Models for Digital Health Guidance"**
 
