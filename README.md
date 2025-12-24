@@ -4,7 +4,7 @@ This repository contains the full reproducibility bundle (Audit-Bundle v1.0) for
 
 **"Equity-First Evaluation of Large Language Models for Digital Health Guidance"**
 
-## 📊 Equity-First LLM Audit Pipeline
+## Equity-First LLM Audit Pipeline
 
 ![Equity-First LLM Audit Pipeline](L2.png)
 
@@ -12,7 +12,7 @@ This repository contains the full reproducibility bundle (Audit-Bundle v1.0) for
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `data/`
   - `cchs_sample_5k.csv` – Processed Canadian Community Health Survey sample
   - `prompts.csv` – FNMWCF-aligned persona prompts
